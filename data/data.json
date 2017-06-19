@@ -1,0 +1,34 @@
+[
+  {
+    "category": "alpineflora",
+    "scientific_name": "Eriophorum vaginatum",
+    "common_names": [
+      "Sheathed Cottonsedge",
+      "Cottongrass",
+      "Hares Tail",
+      "Tussock Cottongrass"
+    ],
+    "photographer": "Beth Zimmer",
+    "image": "alpineflora/Eriophorumvaginatum.jpg"
+  },
+  {
+    "category": "alpineflora",
+    "scientific_name": "Geum peckii",
+    "common_names": [
+      "Mountain Avens"
+    ],
+    "photographer": "Beth Zimmer",
+    "image": "alpineflora/Geumpeckii.jpg"
+  },
+  {
+    "category": "alpineflora",
+    "scientific_name": "Minuartia groenlandica, (syn. Arenaria groenlandica)",
+    "common_names": [
+      "Greenland Stitchwort",
+      "Mountain Stitchwort",
+      "Mountain Sandwort"
+    ],
+    "photographer": "Marie Price",
+    "image": "alpineflora/Minuartiagroenlandica,(syn.Arenariagroenlandica).jpg"
+  }
+]
