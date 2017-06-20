@@ -5,10 +5,11 @@
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{longtable}
-\usepackage[margin=1in]{geometry}
 \usepackage{enumitem}
 \usepackage{varwidth}
 \usepackage{setspace}
+\usepackage[export]{adjustbox}
+\usepackage[left=1in,right=1in,top=0.5in]{geometry}
 
 \setlist[itemize]{leftmargin=*}
 \setlist[enumerate]{leftmargin=*}
@@ -37,7 +38,7 @@
       tex.print('\\begin{longtable}{p{2in}p{2in}p{2in}}')
 
       for i, data in pairs(jsondata[section]) do
-        tex.print('\\includegraphics[width=\\linewidth]{' .. data['image'] .. '}')
+        tex.print('\\includegraphics[max width=\\linewidth, max height=1.8in]{' .. data['image'] .. '}')
         tex.print('\\newline \\textit{' .. data['scientific_name'] .. '}')
 
         tex.print('\\begin{itemize}')
@@ -69,8 +70,10 @@
 \doublespace
 \huge``\normalsize These galleries and guides show off the beauty of our New Hampshire outdoors. We hope that when you see these wonderful pictures it will encourage you to get outdoors ... hopefully with the AMC-NH Chapter. Being able to identify these plants and animals will greatly add to your enjoyment and appreciation of them. We also encourage you to bring your camera and photograph them. The camera is often your guide, pointing out many things that you just don't see without it. Hopefully you'll get some pictures that you'll want to share with others ... here.\huge''\normalsize\\\\
 All material provided by the New Hampshire Chapter at \underline{amc-nh.org/resources/guides}
+\onehalfspace
 \tableofcontents
 \newpage
+\footnotesize
 \singlespace
 \pagenumbering{arabic}
 \directlua{generateContent()}
