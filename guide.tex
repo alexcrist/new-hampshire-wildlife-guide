@@ -1,24 +1,78 @@
-\documentclass{article}
+\documentclass[11pt, letterpaper]{article}
+
 \usepackage{luacode}
 \usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{varwidth}
+\usepackage{setspace}
+
+\setlist[itemize]{leftmargin=*}
+\setlist[enumerate]{leftmargin=*}
+\setlength{\tabcolsep}{0.1in}
 \graphicspath{ {data/} }
+\setlength{\parindent}{0pt}
+
 \begin{luacode*}
-  function test()
+  function generateContent()
     require("lualibs.lua")
+
     local file = io.open('data/data.json')
     local jsonstring = file:read('*a')
     file.close()
-    local jsondata =  utilities.json.tolua(jsonstring)
-    tex.print('\\begin{tabular}{cc}')
-    tex.print('\\hline\\textbf{Scientific name} & \\textbf{Category} \\\\\\hline')
-    for key, value in pairs(jsondata) do
-      tex.print(value["scientific_name"] .. ' & ' .. value["category"] .. '\\\\')
-      tex.print('\\\\')
+    local jsondata = utilities.json.tolua(jsonstring)
+
+    local sections = {}
+    for section in pairs(jsondata) do
+      table.insert(sections, section)
     end
-    tex.print('\\hline\\end{tabular}')
+    table.sort(sections)
+
+    for i, section in pairs(sections) do
+      tex.print('\\section{' .. section .. '}')
+      tex.print('\\rule{\\textwidth}{1pt}\\\\')
+      tex.print('\\begin{longtable}{p{2in}p{2in}p{2in}}')
+
+      for i, data in pairs(jsondata[section]) do
+        tex.print('\\includegraphics[width=\\linewidth]{' .. data['image'] .. '}')
+        tex.print('\\newline \\textit{' .. data['scientific_name'] .. '}')
+
+        tex.print('\\begin{itemize}')
+        tex.print('\\itemsep0em')
+        for j, name in pairs(data['common_names']) do
+          tex.print('\\item ' .. name)
+        end
+        tex.print('\\end{itemize}')
+
+        if i % 3 == 0 then
+          tex.print('\\\\\\\\')
+        else
+          tex.print('&')
+        end
+      end
+
+      tex.print('\\end{longtable}')
+      tex.print('\\newpage')
+    end
   end
 \end{luacode*}
+
 \begin{document}
-\directlua{test()}
-\includegraphics[width=5cm]{alpineflora/Geumpeckii}
+\pagenumbering{gobble}
+\huge
+\textbf{New Hampshire Wildlife Identification Guide}\\
+\rule{\textwidth}{1pt}\\\\
+\normalsize
+\doublespace
+\huge``\normalsize These galleries and guides show off the beauty of our New Hampshire outdoors. We hope that when you see these wonderful pictures it will encourage you to get outdoors ... hopefully with the AMC-NH Chapter. Being able to identify these plants and animals will greatly add to your enjoyment and appreciation of them. We also encourage you to bring your camera and photograph them. The camera is often your guide, pointing out many things that you just don't see without it. Hopefully you'll get some pictures that you'll want to share with others ... here.\huge''\normalsize\\\\
+All material provided by the New Hampshire Chapter at \underline{amc-nh.org/resources/guides}
+\tableofcontents
+\newpage
+
+\singlespace
+\pagenumbering{arabic}
+\directlua{generateContent()}
 \end{document}
