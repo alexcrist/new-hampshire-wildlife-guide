@@ -78,7 +78,7 @@ def main():
             extension = image[image.rfind('.'):]
             image_path = category['url'] + '/' + re.sub(r'[^\w]', '', entry['scientific_name'])
             image_path_full = output_dir + '/' + image_path + extension
-            success = True#download_image(image, image_path_full, backup_image)
+            success = download_image(image, image_path_full, backup_image)
             if success:
                 entry['image'] = image_path
 
