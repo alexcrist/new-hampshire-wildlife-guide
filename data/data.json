@@ -20,30 +20,30 @@
       "image": "alpineflora/Geumpeckii"
     },
     {
-      "scientific_name": "Minuartia groenlandica, (syn. Arenaria groenlandica)",
+      "scientific_name": "Minuartia groenlandica",
       "common_names": [
         "Greenland Stitchwort",
         "Mountain Stitchwort",
         "Mountain Sandwort"
       ],
       "photographer": "Marie Price",
-      "image": "alpineflora/MinuartiagroenlandicasynArenariagroenlandica"
+      "image": "alpineflora/Minuartiagroenlandica"
     }
   ],
   "Amphibians": [
     {
-      "scientific_name": "Bufo americanus, Bufo americanus americanus",
+      "scientific_name": "Bufo americanus",
       "common_names": [
         "American Toad",
         "Eastern American Toad"
       ],
       "photographer": "Leif Andersson",
-      "image": "amphibians/BufoamericanusBufoamericanusamericanus"
+      "image": "amphibians/Bufoamericanus"
     },
     {
-      "scientific_name": "Gyrinophilus porphyriticus ",
+      "scientific_name": "Gyrinophilus porphyriticus",
       "common_names": [
-        "(pos.)Blue Ridge Spring Salamander (pos.)",
+        "Blue Ridge Spring Salamander (pos.)",
         "Spring Salamander"
       ],
       "photographer": "Wanda Rice",
@@ -62,7 +62,7 @@
       "common_names": [
         "Eastern Newt",
         "Red-spotted Newt",
-        "Red Eft(Red Eft is terrestrial immature stage)"
+        "Red Eft"
       ],
       "photographer": "Denise Hurt",
       "image": "amphibians/Notophthalmusviridescens"
@@ -118,12 +118,12 @@
       "image": "birds/Accipiterstriatus"
     },
     {
-      "scientific_name": "Actitis macularius, syn. A. macularia",
+      "scientific_name": "Actitis macularius",
       "common_names": [
         "Spotted Sandpiper"
       ],
       "photographer": "Denise Hurt",
-      "image": "birds/ActitismaculariussynAmacularia"
+      "image": "birds/Actitismacularius"
     },
     {
       "scientific_name": "Agelaius phoeniceus",
@@ -143,21 +143,12 @@
       "image": "birds/Aixsponsa"
     },
     {
-      "scientific_name": "Aix sponsa",
-      "common_names": [
-        "Wood Duck",
-        "Carolina Duck♂"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Aixsponsa"
-    },
-    {
-      "scientific_name": "Alca torda, Alca torda torda",
+      "scientific_name": "Alca torda",
       "common_names": [
         "Razorbill"
       ],
       "photographer": "Eduardo del Solar",
-      "image": "birds/AlcatordaAlcatordatorda"
+      "image": "birds/Alcatorda"
     },
     {
       "scientific_name": "Anas americana",
@@ -170,12 +161,12 @@
       "image": "birds/Anasamericana"
     },
     {
-      "scientific_name": "Anas carolinensis, Anas crecca carolinensis",
+      "scientific_name": "Anas carolinensis",
       "common_names": [
         "Green-winged Teal♂"
       ],
       "photographer": "Eduardo del Solar",
-      "image": "birds/AnascarolinensisAnascreccacarolinensis"
+      "image": "birds/Anascarolinensis"
     },
     {
       "scientific_name": "Anas clypeata",
@@ -190,15 +181,6 @@
       "scientific_name": "Anas platyrhynchos",
       "common_names": [
         "Mallard♀",
-        "Wild Duck"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Anasplatyrhynchos"
-    },
-    {
-      "scientific_name": "Anas platyrhynchos",
-      "common_names": [
-        "Mallard♂",
         "Wild Duck"
       ],
       "photographer": "Eduardo del Solar",
@@ -221,37 +203,13 @@
       "image": "birds/Ardeaherodias"
     },
     {
-      "scientific_name": "Ardea herodias",
-      "common_names": [
-        "Great Blue Heron"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "birds/Ardeaherodias"
-    },
-    {
-      "scientific_name": "Ardea herodias",
-      "common_names": [
-        "Great Blue Heron"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "birds/Ardeaherodias"
-    },
-    {
       "scientific_name": "Arenaria interpres",
       "common_names": [
         "Ruddy Turnstone",
-        "Turnstone(non-breeding plumage)"
+        "Turnstone"
       ],
       "photographer": "Tom Todd",
       "image": "birds/Arenariainterpres"
-    },
-    {
-      "scientific_name": "Asio flammeus",
-      "common_names": [
-        "Short-eared Owl"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Asioflammeus"
     },
     {
       "scientific_name": "Asio flammeus",
@@ -295,37 +253,13 @@
       "image": "birds/Bombycillacedrorum"
     },
     {
-      "scientific_name": "Bombycilla cedrorum",
-      "common_names": [
-        "Cedar Waxwing"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "birds/Bombycillacedrorum"
-    },
-    {
-      "scientific_name": "Branta bernicla, Branta bernicla hrota",
+      "scientific_name": "Branta bernicla",
       "common_names": [
         "Brant",
         "Brant Goose",
         "Pale-bellied Brant Goose"
       ],
       "photographer": "Steve Dionne",
-      "image": "birds/BrantaberniclaBrantaberniclahrota"
-    },
-    {
-      "scientific_name": "Branta bernicla",
-      "common_names": [
-        "Brant"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Brantabernicla"
-    },
-    {
-      "scientific_name": "Branta bernicla",
-      "common_names": [
-        "Brant"
-      ],
-      "photographer": "Eduardo del Solar",
       "image": "birds/Brantabernicla"
     },
     {
@@ -339,8 +273,7 @@
     {
       "scientific_name": "Bubo scandiacus",
       "common_names": [
-        "",
-        " (prev.) Nyctea scandiacaSnowy Owl"
+        "Nyctea scandiacaSnowy Owl"
       ],
       "photographer": "Steve Dionne",
       "image": "birds/Buboscandiacus"
@@ -357,7 +290,7 @@
       "scientific_name": "Bucephala albeola",
       "common_names": [
         "Bufflehead",
-        " Spirit Duck"
+        "Spirit Duck"
       ],
       "photographer": "Eduardo del Solar",
       "image": "birds/Bucephalaalbeola"
@@ -371,21 +304,12 @@
       "image": "birds/Bucephalaclangula"
     },
     {
-      "scientific_name": "Buteo jamaicensis, Buteo jamaicensis borealis, Buteo borealis ",
+      "scientific_name": "Buteo jamaicensis",
       "common_names": [
-        "(syn.)Red-tailed Hawk (juvenile)",
+        "Red-tailed Hawk (juvenile)",
         "Chickenhawk"
       ],
       "photographer": "Steve Dionne",
-      "image": "birds/ButeojamaicensisButeojamaicensisborealisButeoborealis"
-    },
-    {
-      "scientific_name": "Buteo jamaicensis",
-      "common_names": [
-        "Red-Tailed Hawk",
-        "(immature)"
-      ],
-      "photographer": "Denise Hurt",
       "image": "birds/Buteojamaicensis"
     },
     {
@@ -397,19 +321,10 @@
       "image": "birds/Butoridesvirescens"
     },
     {
-      "scientific_name": "Butorides virescens",
+      "scientific_name": "Calidris alba",
       "common_names": [
-        "Green Heron"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Butoridesvirescens"
-    },
-    {
-      "scientific_name": "Calidris alba ",
-      "common_names": [
-        "(behind)",
-        "Calidris pusilla (front)Sanderling (behind)",
-        "Semipalmated Sandpiper (front)"
+        "Calidris pusilla Sanderling (behind)",
+        "Semipalmated Sandpiper"
       ],
       "photographer": "Steve Dionne",
       "image": "birds/Calidrisalba"
@@ -440,28 +355,12 @@
       "image": "birds/Cardinaliscardinalis"
     },
     {
-      "scientific_name": "Cardinalis cardinalis",
-      "common_names": [
-        "Northern Cardinal♀"
-      ],
-      "photographer": "Tom Todd",
-      "image": "birds/Cardinaliscardinalis"
-    },
-    {
-      "scientific_name": "Cardinalis cardinalis",
-      "common_names": [
-        "Northern Cardinal♀"
-      ],
-      "photographer": "Tom Todd",
-      "image": "birds/Cardinaliscardinalis"
-    },
-    {
-      "scientific_name": "Carduelis flammea, (syn. Acanthis flammea)",
+      "scientific_name": "Carduelis flammea",
       "common_names": [
         "Common Redpoll♀"
       ],
       "photographer": "Steve Dionne",
-      "image": "birds/CarduelisflammeasynAcanthisflammea"
+      "image": "birds/Carduelisflammea"
     },
     {
       "scientific_name": "Carduelis tristis",
@@ -501,7 +400,7 @@
       "scientific_name": "Chen caerulescens",
       "common_names": [
         "Snow Goose",
-        " Blue Goose"
+        "Blue Goose"
       ],
       "photographer": "Eduardo del Solar",
       "image": "birds/Chencaerulescens"
@@ -515,7 +414,7 @@
       "image": "birds/Chroicocephalusphiladelphia"
     },
     {
-      "scientific_name": "Colaptes auratus, Colaptes auratus auratus",
+      "scientific_name": "Colaptes auratus",
       "common_names": [
         "Northern Flicker",
         "Yellow-shafted Flicker",
@@ -525,7 +424,7 @@
         "Yarrup"
       ],
       "photographer": "Eduardo del Solar",
-      "image": "birds/ColaptesauratusColaptesauratusauratus"
+      "image": "birds/Colaptesauratus"
     },
     {
       "scientific_name": "Cyanocitta cristata",
@@ -547,17 +446,9 @@
     {
       "scientific_name": "Cygnus olor",
       "common_names": [
-        "Mute Swan(exotic invasive)"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Cygnusolor"
-    },
-    {
-      "scientific_name": "Cygnus olor",
-      "common_names": [
         "Mute Swan"
       ],
-      "photographer": "Denise Hurt",
+      "photographer": "Eduardo del Solar",
       "image": "birds/Cygnusolor"
     },
     {
@@ -574,14 +465,6 @@
         "Snowy Egret"
       ],
       "photographer": "Tom Todd",
-      "image": "birds/Egrettathula"
-    },
-    {
-      "scientific_name": "Egretta thula",
-      "common_names": [
-        "Snowy Egret"
-      ],
-      "photographer": "Steve Dionne",
       "image": "birds/Egrettathula"
     },
     {
@@ -615,7 +498,7 @@
     {
       "scientific_name": "Fratercula arctica",
       "common_names": [
-        " Atlantic Puffin",
+        "Atlantic Puffin",
         "Common Puffin"
       ],
       "photographer": "Eduardo del Solar",
@@ -625,7 +508,7 @@
       "scientific_name": "Fulica americana",
       "common_names": [
         "American Coot",
-        " Coot"
+        "Coot"
       ],
       "photographer": "Eduardo del Solar",
       "image": "birds/Fulicaamericana"
@@ -634,33 +517,15 @@
       "scientific_name": "Gavia immer",
       "common_names": [
         "Great Northern Loon",
-        "Common Loon",
-        "(female in lead)"
+        "Common Loon"
       ],
       "photographer": "Pam Powers",
       "image": "birds/Gaviaimmer"
     },
     {
-      "scientific_name": "Gavia immer",
-      "common_names": [
-        "Great Northern Loon",
-        "Common Loon"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Gaviaimmer"
-    },
-    {
       "scientific_name": "Geothlypis trichas",
       "common_names": [
-        "Common Yellowthroat (Warbler)♀"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "birds/Geothlypistrichas"
-    },
-    {
-      "scientific_name": "Geothlypis trichas",
-      "common_names": [
-        "Common Yellowthroat (Warbler)♂"
+        "Common Yellowthroat ♀"
       ],
       "photographer": "Steve Dionne",
       "image": "birds/Geothlypistrichas"
@@ -695,18 +560,9 @@
     {
       "scientific_name": "Haliaeetus leucocephalus washingtoniensis",
       "common_names": [
-        "Northern Bald Eagle",
-        "( female)"
-      ],
-      "photographer": "Pam Powers",
-      "image": "birds/Haliaeetusleucocephaluswashingtoniensis"
-    },
-    {
-      "scientific_name": "Haliaeetus leucocephalus washingtoniensis",
-      "common_names": [
         "Northern Bald Eagle"
       ],
-      "photographer": "Denise Hurt",
+      "photographer": "Pam Powers",
       "image": "birds/Haliaeetusleucocephaluswashingtoniensis"
     },
     {
@@ -729,22 +585,6 @@
       ],
       "photographer": "Eduardo del Solar",
       "image": "birds/Icterusspurius"
-    },
-    {
-      "scientific_name": "Icterus spurius",
-      "common_names": [
-        "Orchard Oriole♀"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Icterusspurius"
-    },
-    {
-      "scientific_name": "Ictinia mississippiensis",
-      "common_names": [
-        "Mississippi Kite"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Ictiniamississippiensis"
     },
     {
       "scientific_name": "Ictinia mississippiensis",
@@ -788,14 +628,6 @@
       "image": "birds/Megacerylealcyon"
     },
     {
-      "scientific_name": "Megaceryle alcyon",
-      "common_names": [
-        "Belted Kingfisher"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Megacerylealcyon"
-    },
-    {
       "scientific_name": "Megascops asio",
       "common_names": [
         "Eastern Screech-Owl"
@@ -812,30 +644,30 @@
       "image": "birds/Melanerpescarolinus"
     },
     {
-      "scientific_name": "Melanitta americana, Melanitta nigra americana ",
+      "scientific_name": "Melanitta americana",
       "common_names": [
-        "(syn.)Black Scoter",
+        "Black Scoter",
         "American Scoter",
-        "Macreuse Noire (fr)"
+        "Macreuse Noire"
       ],
       "photographer": "Eduardo del Solar",
-      "image": "birds/MelanittaamericanaMelanittanigraamericana"
+      "image": "birds/Melanittaamericana"
     },
     {
-      "scientific_name": "Melanitta fusca, Melanitta deglandi, Melanitta fusca deglandi",
+      "scientific_name": "Melanitta fusca",
       "common_names": [
         "White-winged Scoter♂"
       ],
       "photographer": "Eduardo del Solar",
-      "image": "birds/MelanittafuscaMelanittadeglandiMelanittafuscadeglandi"
+      "image": "birds/Melanittafusca"
     },
     {
-      "scientific_name": "Meleagris gallopavo, Meleagris gallopavo silvestris",
+      "scientific_name": "Meleagris gallopavo",
       "common_names": [
         "Wild Turkey♀"
       ],
       "photographer": "Duncan Todd",
-      "image": "birds/MeleagrisgallopavoMeleagrisgallopavosilvestris"
+      "image": "birds/Meleagrisgallopavo"
     },
     {
       "scientific_name": "Melospiza melodia",
@@ -846,14 +678,14 @@
       "image": "birds/Melospizamelodia"
     },
     {
-      "scientific_name": "Mergus merganser, Mergus merganser americanus",
+      "scientific_name": "Mergus merganser",
       "common_names": [
         "Common Merganser",
         "Goosander",
         "Buff-breasted Merganser"
       ],
       "photographer": "Eduardo del Solar",
-      "image": "birds/MergusmerganserMergusmerganseramericanus"
+      "image": "birds/Mergusmerganser"
     },
     {
       "scientific_name": "Mergus serrator",
@@ -917,14 +749,6 @@
       "image": "birds/Pandionhaliaetus"
     },
     {
-      "scientific_name": "Pandion haliaetus",
-      "common_names": [
-        "Osprey"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "birds/Pandionhaliaetus"
-    },
-    {
       "scientific_name": "Passer domesticus",
       "common_names": [
         "House Sparrow♀"
@@ -941,20 +765,12 @@
       "image": "birds/Pelecanusoccidentalis"
     },
     {
-      "scientific_name": "Pelecanus occidentalis",
-      "common_names": [
-        "Brown Pelican"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/Pelecanusoccidentalis"
-    },
-    {
-      "scientific_name": "Phalacrocorax auritus, Phalacrocorax auritus auritus",
+      "scientific_name": "Phalacrocorax auritus",
       "common_names": [
         "Double-crested Cormorant"
       ],
       "photographer": "Eduardo del Solar",
-      "image": "birds/PhalacrocoraxauritusPhalacrocoraxauritusauritus"
+      "image": "birds/Phalacrocoraxauritus"
     },
     {
       "scientific_name": "Phalacrocorax carbo",
@@ -996,7 +812,7 @@
       "scientific_name": "Pipilo erythrophthalmus",
       "common_names": [
         "Eastern Towhee♀",
-        "(prev. ) Rufous Breasted Towhee"
+        "Rufous Breasted Towhee"
       ],
       "photographer": "Steve Dionne",
       "image": "birds/Pipiloerythrophthalmus"
@@ -1046,8 +862,7 @@
     {
       "scientific_name": "Rynchops niger",
       "common_names": [
-        "Black Skimmer",
-        "(rare in NH after storms)"
+        "Black Skimmer"
       ],
       "photographer": "Tom Todd",
       "image": "birds/Rynchopsniger"
@@ -1061,21 +876,12 @@
       "image": "birds/Sayornisphoebe"
     },
     {
-      "scientific_name": "Setophaga coronata, Setophaga coronata coronata",
+      "scientific_name": "Setophaga coronata",
       "common_names": [
         "Yellow-rumped Warbler♀",
         "Myrtle Warbler"
       ],
       "photographer": "Eduardo del Solar",
-      "image": "birds/SetophagacoronataSetophagacoronatacoronata"
-    },
-    {
-      "scientific_name": "Setophaga coronata",
-      "common_names": [
-        "Yellow-rumped Warbler♂",
-        "(formerly ssp.) Myrtle Yellow-rumped Warbler"
-      ],
-      "photographer": "Steve Dionne",
       "image": "birds/Setophagacoronata"
     },
     {
@@ -1097,8 +903,7 @@
     {
       "scientific_name": "Setophaga petechia",
       "common_names": [
-        "",
-        " (prev.) Dendroica petechiaAmerican Yellow Warbler",
+        "Dendroica petechiaAmerican Yellow Warbler",
         "Yellow Warbler"
       ],
       "photographer": "Eduardo del Solar",
@@ -1163,8 +968,7 @@
     {
       "scientific_name": "Sternula antillarum",
       "common_names": [
-        "",
-        " (prev.) Sterna antillarumLeast Tern"
+        "Sterna antillarumLeast Tern"
       ],
       "photographer": "Eduardo del Solar",
       "image": "birds/Sternulaantillarum"
@@ -1213,48 +1017,27 @@
     {
       "scientific_name": "Tringa melanoleuca",
       "common_names": [
-        "Greater Yellowlegs(with Lesser Yellowlegs)"
+        "Greater Yellowlegs"
       ],
       "photographer": "Eduardo del Solar",
       "image": "birds/Tringamelanoleuca"
     },
     {
-      "scientific_name": "Turdus migratorius, Merula migratoria",
+      "scientific_name": "Turdus migratorius",
       "common_names": [
-        "",
-        " (prob.) Turdus migratorius migratoriusAmerican Robin"
+        "Turdus migratorius migratoriusAmerican Robin"
       ],
       "photographer": "Steve Dionne",
-      "image": "birds/TurdusmigratoriusMerulamigratoria"
+      "image": "birds/Turdusmigratorius"
     },
     {
-      "scientific_name": "Turdus migratorius, Merula migratoria",
+      "scientific_name": "Tyto alba",
       "common_names": [
-        "",
-        " (prob.) Turdus migratorius migratoriusAmerican Robin"
-      ],
-      "photographer": "Lynnann Dionne",
-      "image": "birds/TurdusmigratoriusMerulamigratoria"
-    },
-    {
-      "scientific_name": "Tyto alba, Strix alba ",
-      "common_names": [
-        "(syn.)",
-        "Strix pratincola (syn.)",
-        "Tyto delicatula (syn.)Barn Owl"
+        "Strix pratincola",
+        "Tyto delicatula Barn Owl"
       ],
       "photographer": "Eduardo del Solar",
-      "image": "birds/TytoalbaStrixalba"
-    },
-    {
-      "scientific_name": "Tyto alba, Strix alba ",
-      "common_names": [
-        "(syn.)",
-        "Strix pratincola (syn.)",
-        "Tyto delicatula (syn.)Barn Owl"
-      ],
-      "photographer": "Eduardo del Solar",
-      "image": "birds/TytoalbaStrixalba"
+      "image": "birds/Tytoalba"
     },
     {
       "scientific_name": "Zenaida macroura",
@@ -1267,7 +1050,7 @@
     {
       "scientific_name": "Zonotrichia albicollis",
       "common_names": [
-        "White Throated Sparrow(plumage variation white-striped)"
+        "White Throated Sparrow"
       ],
       "photographer": "Steve Dionne",
       "image": "birds/Zonotrichiaalbicollis"
@@ -1288,14 +1071,6 @@
         "Polyphemus Moth♀"
       ],
       "photographer": "Leif Andersson",
-      "image": "butterflies-moths/Antheraeapolyphemus"
-    },
-    {
-      "scientific_name": "Antheraea polyphemus",
-      "common_names": [
-        "Polyphemus Moth♂"
-      ],
-      "photographer": "Celeste Bourque",
       "image": "butterflies-moths/Antheraeapolyphemus"
     },
     {
@@ -1334,12 +1109,12 @@
       "image": "butterflies-moths/Erynnisicelus"
     },
     {
-      "scientific_name": "Everes comyntas, Cupido comyntas",
+      "scientific_name": "Everes comyntas",
       "common_names": [
         "Eastern Tailed Blue Butterfly"
       ],
       "photographer": "Steve Dionne",
-      "image": "butterflies-moths/EverescomyntasCupidocomyntas"
+      "image": "butterflies-moths/Everescomyntas"
     },
     {
       "scientific_name": "Hyalophora cecropia",
@@ -1352,7 +1127,7 @@
     {
       "scientific_name": "Limenitis arthemis arthemis",
       "common_names": [
-        "(American) White Admiral"
+        "White Admiral"
       ],
       "photographer": "Tom Todd",
       "image": "butterflies-moths/Limenitisarthemisarthemis"
@@ -1366,14 +1141,14 @@
       "image": "butterflies-moths/Lycaeidesmelissasamuelis"
     },
     {
-      "scientific_name": "Lycaena phlaeas, Lycaena phlaeas americana",
+      "scientific_name": "Lycaena phlaeas",
       "common_names": [
         "American Copper",
         "Small Copper",
         "Common Copper"
       ],
       "photographer": "Steve Dionne",
-      "image": "butterflies-moths/LycaenaphlaeasLycaenaphlaeasamericana"
+      "image": "butterflies-moths/Lycaenaphlaeas"
     },
     {
       "scientific_name": "Nymphalis antiopa",
@@ -1387,12 +1162,12 @@
       "image": "butterflies-moths/Nymphalisantiopa"
     },
     {
-      "scientific_name": "Paonias excrecatus, Paonias excrecata",
+      "scientific_name": "Paonias excrecatus",
       "common_names": [
         "Blinded Sphinx Moth"
       ],
       "photographer": "Steve Dionne",
-      "image": "butterflies-moths/PaoniasexcrecatusPaoniasexcrecata"
+      "image": "butterflies-moths/Paoniasexcrecatus"
     },
     {
       "scientific_name": "Papilio canadensis",
@@ -1416,14 +1191,6 @@
       "scientific_name": "Polites peckius",
       "common_names": [
         "Peck's Skipper♀"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "butterflies-moths/Politespeckius"
-    },
-    {
-      "scientific_name": "Polites peckius",
-      "common_names": [
-        "Peck's Skipper♂"
       ],
       "photographer": "Steve Dionne",
       "image": "butterflies-moths/Politespeckius"
@@ -1485,8 +1252,7 @@
       "scientific_name": "Onoclea sensibilis",
       "common_names": [
         "Sensitive fern",
-        "Bead Fern",
-        "(sterile frond)"
+        "Bead Fern"
       ],
       "photographer": "Tom Todd",
       "image": "ferns/Onocleasensibilis"
@@ -1502,10 +1268,9 @@
   ],
   "Fungi": [
     {
-      "scientific_name": " Hericium coralloides",
+      "scientific_name": "Hericium coralloides",
       "common_names": [
-        "(poss.)",
-        " (poss.) Hericium americanumComb Tooth"
+        "Hericium americanumComb Tooth"
       ],
       "photographer": "Daniel Ryan",
       "image": "fungi/Hericiumcoralloides"
@@ -1558,18 +1323,6 @@
       "image": "fungi/Gymnosporangiumjuniperivirginianae"
     },
     {
-      "scientific_name": "Hericium coralloides",
-      "common_names": [
-        "",
-        " (prev.) Hericium ramosumCoral Hedgehog",
-        "Waterfall Hydnum",
-        "Lions Mane",
-        "Bears Head Tooth"
-      ],
-      "photographer": "Paul Hopkins",
-      "image": "fungi/Hericiumcoralloides"
-    },
-    {
       "scientific_name": "Microglossum rufum",
       "common_names": [
         "Orange Earth Tongue",
@@ -1581,9 +1334,8 @@
     {
       "scientific_name": "Mitrula sp.",
       "common_names": [
-        "",
-        " (prob.) Mitrula paludosaSwamp Beacon",
-        " Bog Beacon"
+        "Mitrula paludosaSwamp Beacon",
+        "Bog Beacon"
       ],
       "photographer": "Paul Hopkins",
       "image": "fungi/Mitrulasp"
@@ -1600,7 +1352,7 @@
     {
       "scientific_name": "Phellinus sp.",
       "common_names": [
-        " none"
+        "none"
       ],
       "photographer": "Daniel Ryan",
       "image": "fungi/Phellinussp"
@@ -1608,8 +1360,7 @@
     {
       "scientific_name": "Pholiota spp.",
       "common_names": [
-        "",
-        " (prob.) Pholiota aurivellaGolden Pholiota"
+        "Pholiota aurivellaGolden Pholiota"
       ],
       "photographer": "Paul Hopkins",
       "image": "fungi/Pholiotaspp"
@@ -1617,7 +1368,7 @@
     {
       "scientific_name": "Pleurocybella porrigens",
       "common_names": [
-        " Angel Wing"
+        "Angel Wing"
       ],
       "photographer": "Paul Hopkins",
       "image": "fungi/Pleurocybellaporrigens"
@@ -1632,29 +1383,28 @@
       "image": "fungi/Ramarialargentii"
     },
     {
-      "scientific_name": "Strobilomyces strobilaceus, Strobilomyces floccopus",
+      "scientific_name": "Strobilomyces strobilaceus",
       "common_names": [
         "Old Man of the Woods"
       ],
       "photographer": "Steve Dionne",
-      "image": "fungi/StrobilomycesstrobilaceusStrobilomycesfloccopus"
+      "image": "fungi/Strobilomycesstrobilaceus"
     },
     {
-      "scientific_name": "Trametes versicolor, Coriolus versicolor, Polyporus versicolo",
+      "scientific_name": "Trametes versicolor",
       "common_names": [
         "Turkey Tail"
       ],
       "photographer": "Daniel Ryan",
-      "image": "fungi/TrametesversicolorCoriolusversicolorPolyporusversicolo"
+      "image": "fungi/Trametesversicolor"
     },
     {
       "scientific_name": "Tremella mesenterica",
       "common_names": [
-        "",
-        " (syn.) Helvella mesenterica",
-        " (syn.) Tremella quercinaWitches Butter",
+        "Helvella mesenterica",
+        "Tremella quercinaWitches Butter",
         "Yellow Brain",
-        " Golden Jelly Fungus",
+        "Golden Jelly Fungus",
         "Yellow Trembler"
       ],
       "photographer": "Bob Madden",
@@ -1708,7 +1458,7 @@
     {
       "scientific_name": "Hexagenia limbata",
       "common_names": [
-        "Mayfly(Spinner Stage)"
+        "Mayfly"
       ],
       "photographer": "Steve Dionne",
       "image": "insects/Hexagenialimbata"
@@ -1804,12 +1554,12 @@
       "image": "lichens/Cladoniasulphurina"
     },
     {
-      "scientific_name": "Dibaeis baeomyces, Baeomyces roseus, Dibaeis rosea",
+      "scientific_name": "Dibaeis baeomyces",
       "common_names": [
         "Pink Earth Lichen"
       ],
       "photographer": "Denise Hurt",
-      "image": "lichens/DibaeisbaeomycesBaeomycesroseusDibaeisrosea"
+      "image": "lichens/Dibaeisbaeomyces"
     },
     {
       "scientific_name": "Evernia mesomorpha",
@@ -1855,7 +1605,7 @@
       "scientific_name": "Usnea sp.",
       "common_names": [
         "Old Mans Beard",
-        " Beard Lichen",
+        "Beard Lichen",
         "Treemoss"
       ],
       "photographer": "Daniel Ryan",
@@ -1901,14 +1651,12 @@
       "image": "mammals/Castorcanadensis"
     },
     {
-      "scientific_name": "Felis catus, Felis silvestris catus, (prev.Felis domesticus)",
+      "scientific_name": "Felis catus",
       "common_names": [
-        "Domestic Cat",
-        "(Mt. Washington Mt. Lion)",
-        "(Marty)"
+        "Domestic Cat"
       ],
       "photographer": "Sam Jamke",
-      "image": "mammals/FeliscatusFelissilvestriscatusprevFelisdomesticus"
+      "image": "mammals/Feliscatus"
     },
     {
       "scientific_name": "Lontra canadensis",
@@ -1949,9 +1697,8 @@
     {
       "scientific_name": "Sylvilagus floridanus",
       "common_names": [
-        "",
-        " (poss.) Sylvilagus transitionalis Eastern Cottontail Rabbit",
-        "(poss.) New England cottontail"
+        "Sylvilagus transitionalis Eastern Cottontail Rabbit",
+        "New England cottontail"
       ],
       "photographer": "Tom Todd",
       "image": "mammals/Sylvilagusfloridanus"
@@ -2004,29 +1751,19 @@
     {
       "scientific_name": "Chrysemys picta",
       "common_names": [
-        "",
-        " (prob) Chrysemys picta marginataPainted Turtle♂",
-        "(prob) Midland Painted Turtle"
+        "Chrysemys picta marginataPainted Turtle♂",
+        "Midland Painted Turtle"
       ],
       "photographer": "Steve Dionne",
       "image": "reptiles/Chrysemyspicta"
     },
     {
-      "scientific_name": "Chrysemys picta",
+      "scientific_name": "Thamnophis sauritus",
       "common_names": [
-        "Eastern Painted Turtle"
+        "Ribbon Snake"
       ],
       "photographer": "Denise Hurt",
-      "image": "reptiles/Chrysemyspicta"
-    },
-    {
-      "scientific_name": "Thamnophis sauritus, (poss.Thamnophis sauritus septentrionalis)",
-      "common_names": [
-        "Ribbon Snake",
-        "(poss. Northern Ribbon Snake)"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "reptiles/ThamnophissaurituspossThamnophissauritusseptentrionalis"
+      "image": "reptiles/Thamnophissauritus"
     },
     {
       "scientific_name": "Thamnophis sirtalis sirtalis",
@@ -2058,14 +1795,6 @@
       "image": "trees/Acersaccharum"
     },
     {
-      "scientific_name": "Acer saccharum",
-      "common_names": [
-        "Sugar Maple"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Acersaccharum"
-    },
-    {
       "scientific_name": "Berberis vulgaris",
       "common_names": [
         "Barberry",
@@ -2074,26 +1803,6 @@
       ],
       "photographer": "Tom Todd",
       "image": "trees/Berberisvulgaris"
-    },
-    {
-      "scientific_name": "Berberis vulgaris",
-      "common_names": [
-        "Barberry",
-        "Common Barberry",
-        "European Barberry"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Berberisvulgaris"
-    },
-    {
-      "scientific_name": "Betula papyrifera",
-      "common_names": [
-        "Paper Birch",
-        "American White Birch",
-        "Canoe Birch"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Betulapapyrifera"
     },
     {
       "scientific_name": "Betula papyrifera",
@@ -2126,50 +1835,13 @@
       "image": "trees/Castaneadentata"
     },
     {
-      "scientific_name": "Castanea dentata",
-      "common_names": [
-        "American Chestnut"
-      ],
-      "photographer": "Wanda Rice",
-      "image": "trees/Castaneadentata"
-    },
-    {
-      "scientific_name": "Catalpa sp.,(prob. Catalpa speciosa)",
+      "scientific_name": "Catalpa sp.",
       "common_names": [
         "Catalpa",
-        "Catawba",
-        "(prob. Northern Catalpa)"
+        "Catawba"
       ],
       "photographer": "Tom Todd",
-      "image": "trees/CatalpaspprobCatalpaspeciosa"
-    },
-    {
-      "scientific_name": "Catalpa sp.,(prob. Catalpa speciosa)",
-      "common_names": [
-        "Catalpa",
-        "Catawba",
-        "(prob. Northern Catalpa)"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/CatalpaspprobCatalpaspeciosa"
-    },
-    {
-      "scientific_name": "Catalpa sp.,(prob. Catalpa speciosa)",
-      "common_names": [
-        "Catalpa",
-        "Catawba",
-        "(prob. Northern Catalpa)"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/CatalpaspprobCatalpaspeciosa"
-    },
-    {
-      "scientific_name": "Cornus florida",
-      "common_names": [
-        "Flowering Dogwood"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Cornusflorida"
+      "image": "trees/Catalpasp"
     },
     {
       "scientific_name": "Cornus florida",
@@ -2192,25 +1864,7 @@
       "scientific_name": "Fraxinus americana",
       "common_names": [
         "White Ash",
-        " American Ash"
-      ],
-      "photographer": "Wanda Rice",
-      "image": "trees/Fraxinusamericana"
-    },
-    {
-      "scientific_name": "Fraxinus americana",
-      "common_names": [
-        "White Ash",
-        " American Ash"
-      ],
-      "photographer": "Wanda Rice",
-      "image": "trees/Fraxinusamericana"
-    },
-    {
-      "scientific_name": "Fraxinus americana",
-      "common_names": [
-        "White Ash",
-        " American Ash"
+        "American Ash"
       ],
       "photographer": "Wanda Rice",
       "image": "trees/Fraxinusamericana"
@@ -2222,14 +1876,6 @@
       ],
       "photographer": "Tom Todd",
       "image": "trees/Ilexopaca"
-    },
-    {
-      "scientific_name": "Juglans nigra",
-      "common_names": [
-        "Eastern Black Walnut"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Juglansnigra"
     },
     {
       "scientific_name": "Juglans nigra",
@@ -2258,32 +1904,6 @@
       "image": "trees/Piceapungens"
     },
     {
-      "scientific_name": "Picea pungens",
-      "common_names": [
-        "Blue Spruce",
-        "Colorado Blue Spruce"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Piceapungens"
-    },
-    {
-      "scientific_name": "Picea pungens",
-      "common_names": [
-        "Blue Spruce",
-        "Colorado Blue Spruce"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Piceapungens"
-    },
-    {
-      "scientific_name": "Pinus strobus",
-      "common_names": [
-        "Eastern White Pine"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Pinusstrobus"
-    },
-    {
       "scientific_name": "Pinus strobus",
       "common_names": [
         "Eastern White Pine"
@@ -2303,39 +1923,10 @@
       "image": "trees/Populusgrandidentata"
     },
     {
-      "scientific_name": "Populus grandidentata",
-      "common_names": [
-        "Big-tooth Aspen",
-        "Large-tooth Aspen",
-        "American Aspen",
-        "White Poplar"
-      ],
-      "photographer": "Wanda Rice",
-      "image": "trees/Populusgrandidentata"
-    },
-    {
       "scientific_name": "Ptelea trifoliata",
       "common_names": [
         "Hoptree",
-        " Common Hoptree"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Pteleatrifoliata"
-    },
-    {
-      "scientific_name": "Ptelea trifoliata",
-      "common_names": [
-        "Hoptree",
-        " Common Hoptree"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Pteleatrifoliata"
-    },
-    {
-      "scientific_name": "Ptelea trifoliata",
-      "common_names": [
-        "Hoptree",
-        " Common Hoptree"
+        "Common Hoptree"
       ],
       "photographer": "Tom Todd",
       "image": "trees/Pteleatrifoliata"
@@ -2349,36 +1940,12 @@
       "image": "trees/Quercusalba"
     },
     {
-      "scientific_name": "Rhus typhina, (syn. Rhus hirta)",
+      "scientific_name": "Rhus typhina",
       "common_names": [
         "Staghorn Sumac"
       ],
       "photographer": "Tom Todd",
-      "image": "trees/RhustyphinasynRhushirta"
-    },
-    {
-      "scientific_name": "Rhus typhina, (syn. Rhus hirta)",
-      "common_names": [
-        "Staghorn Sumac"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/RhustyphinasynRhushirta"
-    },
-    {
-      "scientific_name": "Rhus typhina, (syn. Rhus hirta)",
-      "common_names": [
-        "Staghorn Sumac"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/RhustyphinasynRhushirta"
-    },
-    {
-      "scientific_name": "Rhus typhina, (syn. Rhus hirta)",
-      "common_names": [
-        "Staghorn Sumac"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/RhustyphinasynRhushirta"
+      "image": "trees/Rhustyphina"
     },
     {
       "scientific_name": "Robinia pseudoacacia",
@@ -2388,44 +1955,6 @@
       ],
       "photographer": "Tom Todd",
       "image": "trees/Robiniapseudoacacia"
-    },
-    {
-      "scientific_name": "Robinia pseudoacacia",
-      "common_names": [
-        "Black Locust",
-        "False Acacia"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Robiniapseudoacacia"
-    },
-    {
-      "scientific_name": "Robinia pseudoacacia",
-      "common_names": [
-        "Black Locust",
-        "False Acacia"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Robiniapseudoacacia"
-    },
-    {
-      "scientific_name": "Salix babylonica",
-      "common_names": [
-        "Weeping Willow",
-        "Babylon Willow",
-        "Peking Willow"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Salixbabylonica"
-    },
-    {
-      "scientific_name": "Salix babylonica",
-      "common_names": [
-        "Weeping Willow",
-        "Babylon Willow",
-        "Peking Willow"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Salixbabylonica"
     },
     {
       "scientific_name": "Salix babylonica",
@@ -2449,17 +1978,6 @@
       "image": "trees/Sassafrasalbidum"
     },
     {
-      "scientific_name": "Sassafras albidum",
-      "common_names": [
-        "Sassafras",
-        "White Sassafras",
-        "Red Sassafras",
-        "Silky Sassafras"
-      ],
-      "photographer": "Wanda Rice",
-      "image": "trees/Sassafrasalbidum"
-    },
-    {
       "scientific_name": "Tsuga canadensis",
       "common_names": [
         "Eastern Hemlock",
@@ -2467,44 +1985,6 @@
       ],
       "photographer": "Wanda Rice",
       "image": "trees/Tsugacanadensis"
-    },
-    {
-      "scientific_name": "Tsuga canadensis",
-      "common_names": [
-        "Eastern Hemlock",
-        "Canadian Hemlock"
-      ],
-      "photographer": "Wanda Rice",
-      "image": "trees/Tsugacanadensis"
-    },
-    {
-      "scientific_name": "Tsuga canadensis",
-      "common_names": [
-        "Eastern Hemlock",
-        "Canadian Hemlock"
-      ],
-      "photographer": "Pam Powers",
-      "image": "trees/Tsugacanadensis"
-    },
-    {
-      "scientific_name": "Ulmus americana",
-      "common_names": [
-        "American Elm",
-        "White Elm",
-        "Water Elm"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Ulmusamericana"
-    },
-    {
-      "scientific_name": "Ulmus americana",
-      "common_names": [
-        "American Elm",
-        "White Elm",
-        "Water Elm"
-      ],
-      "photographer": "Tom Todd",
-      "image": "trees/Ulmusamericana"
     },
     {
       "scientific_name": "Ulmus americana",
@@ -2525,38 +2005,18 @@
       ],
       "photographer": "Beth Zimmer",
       "image": "trees/Viburnumlantanoides"
-    },
-    {
-      "scientific_name": "Viburnum lantanoides",
-      "common_names": [
-        "Hobblebush",
-        "Witch-hobble",
-        "Moosewood"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "trees/Viburnumlantanoides"
-    },
-    {
-      "scientific_name": "Viburnum lantanoides",
-      "common_names": [
-        "Hobblebush",
-        "Witch-hobble",
-        "Moosewood"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "trees/Viburnumlantanoides"
     }
   ],
   "Wildflowers": [
     {
-      "scientific_name": "Acalypha rhomboidea, (poss. Acalypha virginica)",
+      "scientific_name": "Acalypha rhomboidea",
       "common_names": [
         "CommonThree-seeded Mercury",
         "Rhombic Three-seeded-Mercury",
         "Copperleaf"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/AcalypharhomboideapossAcalyphavirginica"
+      "image": "wildflowers/Acalypharhomboidea"
     },
     {
       "scientific_name": "Achillea millefolium",
@@ -2572,41 +2032,18 @@
       "image": "wildflowers/Achilleamillefolium"
     },
     {
-      "scientific_name": "Achillea millefolium",
-      "common_names": [
-        "Common Yarrow",
-        "Nosebleed Plant",
-        "Devils Nettle",
-        "Sanguinary",
-        "Milfoil",
-        "Soldiers Woundwort"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Achilleamillefolium"
-    },
-    {
-      "scientific_name": "Agastache foeniculum, (syn. Agastache anethiodora)",
+      "scientific_name": "Agastache foeniculum",
       "common_names": [
         "Anise Hyssop",
         "Blue Giant Hyssop"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/AgastachefoeniculumsynAgastacheanethiodora"
-    },
-    {
-      "scientific_name": "Agastache foeniculum, (syn. Agastache anethiodora)",
-      "common_names": [
-        "Anise Hyssop",
-        "Blue Giant Hyssop"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/AgastachefoeniculumsynAgastacheanethiodora"
+      "image": "wildflowers/Agastachefoeniculum"
     },
     {
       "scientific_name": "Ajuga sp.",
       "common_names": [
-        "",
-        " (prob.) Ajuga reptansBugle",
+        "Ajuga reptansBugle",
         "Blue Bugle",
         "Bugleherb",
         "Bugleweed",
@@ -2630,13 +2067,12 @@
       "image": "wildflowers/Alliumtricoccum"
     },
     {
-      "scientific_name": "Amelanchier sp., (poss. Amelanchier arborea)",
+      "scientific_name": "Amelanchier sp.",
       "common_names": [
-        "Serviceberry",
-        "(poss. Common Serviceberry)"
+        "Serviceberry"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/AmelanchiersppossAmelanchierarborea"
+      "image": "wildflowers/Amelanchiersp"
     },
     {
       "scientific_name": "Anagallis arvensis",
@@ -2659,15 +2095,6 @@
       "image": "wildflowers/Anaphalismargaritacea"
     },
     {
-      "scientific_name": "Anaphalis margaritacea",
-      "common_names": [
-        "Pearly Everlasting",
-        "Western Pearly Everlasting"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Anaphalismargaritacea"
-    },
-    {
       "scientific_name": "Anemone quinquefolia var. quinquefolia",
       "common_names": [
         "Wood Anemone"
@@ -2676,45 +2103,12 @@
       "image": "wildflowers/Anemonequinquefoliavarquinquefolia"
     },
     {
-      "scientific_name": "Anemone quinquefolia var. quinquefolia",
+      "scientific_name": "Antennaria sp.",
       "common_names": [
-        "Wood Anemone"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "wildflowers/Anemonequinquefoliavarquinquefolia"
-    },
-    {
-      "scientific_name": "Antennaria sp., (poss. A. parlinii)",
-      "common_names": [
-        "Pussytoes",
-        "(poss. Parlins Pussytoes)",
-        "(poss. Ladies Tobacco)"
+        "Pussytoes"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/AntennariasppossAparlinii"
-    },
-    {
-      "scientific_name": "Antennaria sp., (poss. A. parlinii)",
-      "common_names": [
-        "Pussytoes",
-        "(poss. Parlins Pussytoes)",
-        "(poss. Ladies Tobacco)"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/AntennariasppossAparlinii"
-    },
-    {
-      "scientific_name": "Apios americana",
-      "common_names": [
-        "potato bean",
-        "hopniss",
-        "Indian potato",
-        "hodoimo",
-        "America-hodoimo",
-        "American groundnut"
-      ],
-      "photographer": "Ralph Samson",
-      "image": "wildflowers/Apiosamericana"
+      "image": "wildflowers/Antennariasp"
     },
     {
       "scientific_name": "Apios americana",
@@ -2740,44 +2134,12 @@
       "image": "wildflowers/Aquilegiacanadensis"
     },
     {
-      "scientific_name": "Aquilegia canadensis",
+      "scientific_name": "Arctium sp.",
       "common_names": [
-        "Canadian Columbine",
-        "Eastern Red Columbine",
-        "Wild Columbine"
+        "Burdock"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/Aquilegiacanadensis"
-    },
-    {
-      "scientific_name": "Aquilegia canadensis",
-      "common_names": [
-        "Canadian Columbine",
-        "Eastern Red Columbine",
-        "Wild Columbine"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Aquilegiacanadensis"
-    },
-    {
-      "scientific_name": "Arctium sp., (poss. Arctium  lappa), (poss. Arctium minus)",
-      "common_names": [
-        "Burdock",
-        "(poss. Greater Burdock)",
-        "(poss. Lesser Burdock)"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/ArctiumsppossArctiumlappapossArctiumminus"
-    },
-    {
-      "scientific_name": "Arctium sp., (poss. Arctium  lappa), (poss. Arctium minus)",
-      "common_names": [
-        "Burdock",
-        "(poss. Greater Burdock)",
-        "(poss. Lesser Burdock)"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/ArctiumsppossArctiumlappapossArctiumminus"
+      "image": "wildflowers/Arctiumsp"
     },
     {
       "scientific_name": "Arisaema triphyllum",
@@ -2793,19 +2155,6 @@
       "image": "wildflowers/Arisaematriphyllum"
     },
     {
-      "scientific_name": "Arisaema triphyllum",
-      "common_names": [
-        "Jack-in-the-pulpit",
-        "Bog Onion",
-        "Brown Dragon",
-        "Indian Turnip",
-        "American Wake Robin",
-        "Wild Turnip"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Arisaematriphyllum"
-    },
-    {
       "scientific_name": "Asclepias incarnata",
       "common_names": [
         "Swamp Milkweed",
@@ -2815,17 +2164,6 @@
       ],
       "photographer": "Denise Hurt",
       "image": "wildflowers/Asclepiasincarnata"
-    },
-    {
-      "scientific_name": "Asclepias syriaca",
-      "common_names": [
-        "Common Milkweed",
-        "Butterfly Flower",
-        "Silkweed",
-        "Silky Swallow-wort"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Asclepiassyriaca"
     },
     {
       "scientific_name": "Asclepias syriaca",
@@ -2857,16 +2195,6 @@
       "image": "wildflowers/Berberisvulgaris"
     },
     {
-      "scientific_name": "Berberis vulgaris",
-      "common_names": [
-        "Barberry",
-        "Common Barberry",
-        "European Barberry"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Berberisvulgaris"
-    },
-    {
       "scientific_name": "Calla palustris",
       "common_names": [
         "Water Arum",
@@ -2878,34 +2206,25 @@
       "image": "wildflowers/Callapalustris"
     },
     {
-      "scientific_name": "Calopogon tuberosus, Calopogon tuberosus var. tuberosus",
+      "scientific_name": "Calopogon tuberosus",
       "common_names": [
         "Grass Pink Orchid",
         "Tuberous Grasspink"
       ],
       "photographer": "Steve Dionne",
-      "image": "wildflowers/CalopogontuberosusCalopogontuberosusvartuberosus"
-    },
-    {
-      "scientific_name": "Calopogon tuberosus, Calopogon tuberosus var. tuberosus",
-      "common_names": [
-        "Grass Pink Orchid",
-        "Tuberous Grasspink"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "wildflowers/CalopogontuberosusCalopogontuberosusvartuberosus"
+      "image": "wildflowers/Calopogontuberosus"
     },
     {
       "scientific_name": "Caltha palustris",
       "common_names": [
         "Marsh Marigold",
-        " Kingcup"
+        "Kingcup"
       ],
       "photographer": "Beth Zimmer",
       "image": "wildflowers/Calthapalustris"
     },
     {
-      "scientific_name": "Calystegia sepium, (prev. Convolvulus sepium)",
+      "scientific_name": "Calystegia sepium",
       "common_names": [
         "larger bindweed",
         "hedge bindweed",
@@ -2914,19 +2233,7 @@
         "bellbind"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/CalystegiasepiumprevConvolvulussepium"
-    },
-    {
-      "scientific_name": "Calystegia sepium, (prev. Convolvulus sepium)",
-      "common_names": [
-        "larger bindweed",
-        "hedge bindweed",
-        "bugle vine",
-        "heavenly trumpets",
-        "bellbind"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/CalystegiasepiumprevConvolvulussepium"
+      "image": "wildflowers/Calystegiasepium"
     },
     {
       "scientific_name": "Campanula rapunculoides",
@@ -2948,17 +2255,7 @@
       "image": "wildflowers/CentaureajaceaL"
     },
     {
-      "scientific_name": "Centaurea jacea L.",
-      "common_names": [
-        "Brown Knapweed",
-        "Rayed Knapweed",
-        "Brown Centaury"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/CentaureajaceaL"
-    },
-    {
-      "scientific_name": "Cephalanthus occidentalis, Cephalanthus occidentalis var. occidentalis, (syn. var. pubescens)",
+      "scientific_name": "Cephalanthus occidentalis",
       "common_names": [
         "Buttonbush",
         "Button Willow",
@@ -2966,27 +2263,7 @@
         "Honey-bells"
       ],
       "photographer": "Denise Hurt",
-      "image": "wildflowers/CephalanthusoccidentalisCephalanthusoccidentalisvaroccidentalissynvarpubescens"
-    },
-    {
-      "scientific_name": "Cephalanthus occidentalis, Cephalanthus occidentalis var. occidentalis, (syn. var. pubescens)",
-      "common_names": [
-        "Buttonbush",
-        "Button Willow",
-        "Common Buttonbush",
-        "Honey-bells"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "wildflowers/CephalanthusoccidentalisCephalanthusoccidentalisvaroccidentalissynvarpubescens"
-    },
-    {
-      "scientific_name": "Chelidonium majus",
-      "common_names": [
-        "Greater Celandine",
-        "Tetterwort"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Chelidoniummajus"
+      "image": "wildflowers/Cephalanthusoccidentalis"
     },
     {
       "scientific_name": "Chelidonium majus",
@@ -3004,34 +2281,6 @@
       ],
       "photographer": "Beth Zimmer",
       "image": "wildflowers/Cheloneglabra"
-    },
-    {
-      "scientific_name": "Chelone glabra",
-      "common_names": [
-        "White Turtlehead"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Cheloneglabra"
-    },
-    {
-      "scientific_name": "Chimaphila maculata",
-      "common_names": [
-        "Spotted Wintergreen",
-        "Striped Wintergreen",
-        "Striped Prince's Pine"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "wildflowers/Chimaphilamaculata"
-    },
-    {
-      "scientific_name": "Chimaphila maculata",
-      "common_names": [
-        "Spotted Wintergreen",
-        "Striped Wintergreen",
-        "Striped Prince's Pine"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "wildflowers/Chimaphilamaculata"
     },
     {
       "scientific_name": "Chimaphila maculata",
@@ -3050,22 +2299,6 @@
       ],
       "photographer": "Beth Zimmer",
       "image": "wildflowers/Cichoriumintybus"
-    },
-    {
-      "scientific_name": "Circaea lutetiana",
-      "common_names": [
-        "Enchanters Nightshade"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Circaealutetiana"
-    },
-    {
-      "scientific_name": "Circaea lutetiana",
-      "common_names": [
-        "Enchanters Nightshade"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Circaealutetiana"
     },
     {
       "scientific_name": "Circaea lutetiana",
@@ -3104,37 +2337,12 @@
       "image": "wildflowers/Clintoniaborealis"
     },
     {
-      "scientific_name": "Clintonia borealis",
-      "common_names": [
-        "Blue-bead Lily",
-        "Clintonia"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Clintoniaborealis"
-    },
-    {
       "scientific_name": "Commelina communis",
       "common_names": [
         "Asiatic Dayflower"
       ],
       "photographer": "Tom Todd",
       "image": "wildflowers/Commelinacommunis"
-    },
-    {
-      "scientific_name": "Commelina communis",
-      "common_names": [
-        "Asiatic Dayflower"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Commelinacommunis"
-    },
-    {
-      "scientific_name": "Convallaria majalis",
-      "common_names": [
-        "Lily of the Valley"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Convallariamajalis"
     },
     {
       "scientific_name": "Convallaria majalis",
@@ -3153,24 +2361,14 @@
       "image": "wildflowers/Conyzacanadensis"
     },
     {
-      "scientific_name": "Coptis trifolia, (syn. Coptis groenlandica)",
+      "scientific_name": "Coptis trifolia",
       "common_names": [
         "Threeleaf Goldthread",
         "Canker-root",
         "Savoyane"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/CoptistrifoliasynCoptisgroenlandica"
-    },
-    {
-      "scientific_name": "Coptis trifolia, (syn. Coptis groenlandica)",
-      "common_names": [
-        "Threeleaf Goldthread",
-        "Canker-root",
-        "Savoyane"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/CoptistrifoliasynCoptisgroenlandica"
+      "image": "wildflowers/Coptistrifolia"
     },
     {
       "scientific_name": "Cornus canadensis",
@@ -3178,14 +2376,6 @@
         "Canadian Bunchberry"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/Cornuscanadensis"
-    },
-    {
-      "scientific_name": "Cornus canadensis",
-      "common_names": [
-        "Canadian Bunchberry"
-      ],
-      "photographer": "Andy Hughson",
       "image": "wildflowers/Cornuscanadensis"
     },
     {
@@ -3202,14 +2392,6 @@
         "Pink Ladys Slipper"
       ],
       "photographer": "Andy Hughson",
-      "image": "wildflowers/Cypripediumacaule"
-    },
-    {
-      "scientific_name": "Cypripedium acaule",
-      "common_names": [
-        "Pink Ladys Slipper"
-      ],
-      "photographer": "Beth Zimmer",
       "image": "wildflowers/Cypripediumacaule"
     },
     {
@@ -3239,13 +2421,13 @@
       "image": "wildflowers/Dianthusdeltoides"
     },
     {
-      "scientific_name": "Diapensia lapponic, D. lapponica subsp. lapponicaa",
+      "scientific_name": "Diapensia lapponic",
       "common_names": [
         "Diapensia",
         "Pincushion Plant"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/DiapensialapponicDlapponicasubsplapponicaa"
+      "image": "wildflowers/Diapensialapponic"
     },
     {
       "scientific_name": "Dicentra sp.",
@@ -3256,28 +2438,12 @@
       "image": "wildflowers/Dicentrasp"
     },
     {
-      "scientific_name": "Dicentra sp.",
-      "common_names": [
-        "Bleeding-heart"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Dicentrasp"
-    },
-    {
-      "scientific_name": "Dicentra sp.",
-      "common_names": [
-        "Bleeding-heart"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Dicentrasp"
-    },
-    {
-      "scientific_name": "Doellingeria umbellata (prev. Aster umbellatus)",
+      "scientific_name": "Doellingeria umbellata",
       "common_names": [
         "Flat-topped White Aster"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/DoellingeriaumbellataprevAsterumbellatus"
+      "image": "wildflowers/Doellingeriaumbellata"
     },
     {
       "scientific_name": "Drosera rotundifolia",
@@ -3291,8 +2457,7 @@
     {
       "scientific_name": "Echinocystis lobata",
       "common_names": [
-        "",
-        " (sym.) Micrampelis lobataWild Cucumber",
+        "Micrampelis lobataWild Cucumber",
         "Prickly Cucumber",
         "Balsam Apple"
       ],
@@ -3309,37 +2474,12 @@
       "image": "wildflowers/Epigaearepens"
     },
     {
-      "scientific_name": "Epigaea repens",
-      "common_names": [
-        "Trailing Arbutus",
-        "Mayflower"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Epigaearepens"
-    },
-    {
-      "scientific_name": "Epilobium angustifolium, (syn. Chamerion angustifolium), (syn. Chamaenerion angustifolium)",
+      "scientific_name": "Epilobium angustifolium",
       "common_names": [
         "Fireweed"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/EpilobiumangustifoliumsynChamerionangustifoliumsynChamaenerionangustifolium"
-    },
-    {
-      "scientific_name": "Epilobium angustifolium, (syn. Chamerion angustifolium), (syn. Chamaenerion angustifolium)",
-      "common_names": [
-        "Fireweed"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/EpilobiumangustifoliumsynChamerionangustifoliumsynChamaenerionangustifolium"
-    },
-    {
-      "scientific_name": "Erigeron annuus",
-      "common_names": [
-        "Annual Fleabane"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Erigeronannuus"
+      "image": "wildflowers/Epilobiumangustifolium"
     },
     {
       "scientific_name": "Erigeron annuus",
@@ -3370,20 +2510,12 @@
       "image": "wildflowers/Erythroniumamericanum"
     },
     {
-      "scientific_name": "Eupatorium maculatum, (syn. Eutrochium maculatum)",
+      "scientific_name": "Eupatorium maculatum",
       "common_names": [
-        " Spotted Joe-Pye Weed"
+        "Spotted Joe-Pye Weed"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/EupatoriummaculatumsynEutrochiummaculatum"
-    },
-    {
-      "scientific_name": "Eupatorium maculatum, (syn. Eutrochium maculatum)",
-      "common_names": [
-        " Spotted Joe-Pye Weed"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/EupatoriummaculatumsynEutrochiummaculatum"
+      "image": "wildflowers/Eupatoriummaculatum"
     },
     {
       "scientific_name": "Euphrasia sp",
@@ -3394,37 +2526,26 @@
       "image": "wildflowers/Euphrasiasp"
     },
     {
-      "scientific_name": "Eurybia divaricata, (prev. Aster Divaricatus)",
+      "scientific_name": "Eurybia divaricata",
       "common_names": [
         "White Wood Aster"
       ],
       "photographer": "Denise Hurt",
-      "image": "wildflowers/EurybiadivaricataprevAsterDivaricatus"
+      "image": "wildflowers/Eurybiadivaricata"
     },
     {
-      "scientific_name": "Eutrochium purpureum var. purpureum, Eupatorium purpureum",
+      "scientific_name": "Eutrochium purpureum var. purpureum",
       "common_names": [
         "Sweetscented Joe Pye Weed"
       ],
       "photographer": "Ralph Samson",
-      "image": "wildflowers/EutrochiumpurpureumvarpurpureumEupatoriumpurpureum"
+      "image": "wildflowers/Eutrochiumpurpureumvarpurpureum"
     },
     {
       "scientific_name": "Fallopia japonica",
       "common_names": [
-        "",
-        " (syn.) Polygonum cuspidatum",
-        " (Syn.) Reynoutria japonicaJapanese knotweed"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Fallopiajaponica"
-    },
-    {
-      "scientific_name": "Fallopia japonica",
-      "common_names": [
-        "",
-        " (syn.) Polygonum cuspidatum",
-        " (Syn.) Reynoutria japonicaJapanese knotweed"
+        "Polygonum cuspidatum",
+        "Reynoutria japonicaJapanese knotweed"
       ],
       "photographer": "Tom Todd",
       "image": "wildflowers/Fallopiajaponica"
@@ -3440,31 +2561,12 @@
       "image": "wildflowers/Filipendulaulmaria"
     },
     {
-      "scientific_name": "Fragaria sp., (poss. Fragaria vesca)",
+      "scientific_name": "Fragaria sp.",
       "common_names": [
-        "Wild Strawberry",
-        "(poss. Woodland Strawberry)"
+        "Wild Strawberry"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/FragariasppossFragariavesca"
-    },
-    {
-      "scientific_name": "Fragaria sp., (poss. Fragaria virginiana)",
-      "common_names": [
-        "Wild Strawberry",
-        "(poss Virginia Strawberry)"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/FragariasppossFragariavirginiana"
-    },
-    {
-      "scientific_name": "Fragaria sp., (poss. Fragaria virginiana)",
-      "common_names": [
-        "Wild Strawberry",
-        "(poss Virginia Strawberry)"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/FragariasppossFragariavirginiana"
+      "image": "wildflowers/Fragariasp"
     },
     {
       "scientific_name": "Fragaria vesca",
@@ -3487,46 +2589,15 @@
       "image": "wildflowers/Gentianaandrewsii"
     },
     {
-      "scientific_name": "Gentiana andrewsii",
-      "common_names": [
-        "Closed Gentian",
-        "Closed Bottle Gentian",
-        "Bottle Gentian"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Gentianaandrewsii"
-    },
-    {
       "scientific_name": "Geranium robertianum",
       "common_names": [
-        "",
-        " (syn.) Robertiella robertianaRobert Geranium",
-        " Herb Robert",
+        "Robertiella robertianaRobert Geranium",
+        "Herb Robert",
         "Red Robin",
         "Death Come Quickly"
       ],
       "photographer": "Tom Todd",
       "image": "wildflowers/Geraniumrobertianum"
-    },
-    {
-      "scientific_name": "Geranium robertianum",
-      "common_names": [
-        "",
-        " (syn.) Robertiella robertianaRobert Geranium",
-        " Herb Robert",
-        "Red Robin",
-        "Death Come Quickly"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Geraniumrobertianum"
-    },
-    {
-      "scientific_name": "Geum peckii",
-      "common_names": [
-        "Mountain Avens"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Geumpeckii"
     },
     {
       "scientific_name": "Geum peckii",
@@ -3545,14 +2616,6 @@
       "image": "wildflowers/Hamamelisvirginiana"
     },
     {
-      "scientific_name": "Hamamelis virginiana",
-      "common_names": [
-        "witch-hazel"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "wildflowers/Hamamelisvirginiana"
-    },
-    {
       "scientific_name": "Hemerocallis sp.",
       "common_names": [
         "Daylily"
@@ -3561,15 +2624,7 @@
       "image": "wildflowers/Hemerocallissp"
     },
     {
-      "scientific_name": "Hemerocallis sp.",
-      "common_names": [
-        "Daylily"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Hemerocallissp"
-    },
-    {
-      "scientific_name": "Hepatica nobilis var. obtusa, Hepatica americana, Anemone americana",
+      "scientific_name": "Hepatica nobilis var. obtusa",
       "common_names": [
         "Round-lobed Hepatica",
         "American Liverleaf",
@@ -3577,23 +2632,15 @@
         "Round-lobed Liverleaf"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/HepaticanobilisvarobtusaHepaticaamericanaAnemoneamericana"
+      "image": "wildflowers/Hepaticanobilisvarobtusa"
     },
     {
-      "scientific_name": "Hieracium sp., (prob. Hieracium pretense)",
+      "scientific_name": "Hieracium sp.",
       "common_names": [
         "Yellow Hawkweed"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/HieraciumspprobHieraciumpretense"
-    },
-    {
-      "scientific_name": "Hieracium sp., (prob. Hieracium pretense)",
-      "common_names": [
-        "Yellow Hawkweed"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/HieraciumspprobHieraciumpretense"
+      "image": "wildflowers/Hieraciumsp"
     },
     {
       "scientific_name": "Houstonia serpyllifolia",
@@ -3602,22 +2649,6 @@
       ],
       "photographer": "Beth Zimmer",
       "image": "wildflowers/Houstoniaserpyllifolia"
-    },
-    {
-      "scientific_name": "Houstonia serpyllifolia",
-      "common_names": [
-        "Thymeleaf Bluet"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Houstoniaserpyllifolia"
-    },
-    {
-      "scientific_name": "Hyacinthoides sp.",
-      "common_names": [
-        "Bluebell"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Hyacinthoidessp"
     },
     {
       "scientific_name": "Hyacinthoides sp.",
@@ -3637,27 +2668,6 @@
       ],
       "photographer": "Tom Todd",
       "image": "wildflowers/Hypericumperforatum"
-    },
-    {
-      "scientific_name": "Hypericum perforatum",
-      "common_names": [
-        "Common St Johnswort",
-        "Tipton's Weed",
-        "Chase-devil",
-        "Klamath Weed"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Hypericumperforatum"
-    },
-    {
-      "scientific_name": "Impatiens pallida",
-      "common_names": [
-        "Pale Touch-me-not",
-        "Pale Jewelweed",
-        "Yellow Jewelweed"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Impatienspallida"
     },
     {
       "scientific_name": "Impatiens pallida",
@@ -3681,18 +2691,9 @@
       "scientific_name": "Kalmia angustifolia",
       "common_names": [
         "Sheep-laurel",
-        " Lamb-kill"
+        "Lamb-kill"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/Kalmiaangustifolia"
-    },
-    {
-      "scientific_name": "Kalmia angustifolia",
-      "common_names": [
-        "Sheep-laurel",
-        " Lamb-kill"
-      ],
-      "photographer": "Marianne Page",
       "image": "wildflowers/Kalmiaangustifolia"
     },
     {
@@ -3703,17 +2704,6 @@
       ],
       "photographer": "Denise Hurt",
       "image": "wildflowers/Kalmialatifolia"
-    },
-    {
-      "scientific_name": "Lathyrus japonicus",
-      "common_names": [
-        "Sea Pea",
-        "Beach Pea",
-        "Circumpolar Pea",
-        "Sea Vetchling"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Lathyrusjaponicus"
     },
     {
       "scientific_name": "Lathyrus japonicus",
@@ -3790,32 +2780,22 @@
       "image": "wildflowers/Maianthemumcanadense"
     },
     {
-      "scientific_name": "Maianthemum canadense",
-      "common_names": [
-        "Canada Mayflower",
-        "Canadian May-lily",
-        "False Lily-of-the-valley"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Maianthemumcanadense"
-    },
-    {
-      "scientific_name": "Maianthemum racemosum, (syn. Smilacina racemosa), (syn. Vagnera racemosa)",
+      "scientific_name": "Maianthemum racemosum",
       "common_names": [
         "False Solomons Seal",
         "Solomons Plume",
         "False Spikenard"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/MaianthemumracemosumsynSmilacinaracemosasynVagneraracemosa"
+      "image": "wildflowers/Maianthemumracemosum"
     },
     {
-      "scientific_name": "Malus domestica, (syn. Pyrus malus), (syn. Malus communis), (syn. Malus pumila)",
+      "scientific_name": "Malus domestica",
       "common_names": [
         "Wild Apple Blossom"
       ],
       "photographer": "Pam Powers",
-      "image": "wildflowers/MalusdomesticasynPyrusmalussynMaluscommunissynMaluspumila"
+      "image": "wildflowers/Malusdomestica"
     },
     {
       "scientific_name": "Medeola virginiana",
@@ -3826,23 +2806,23 @@
       "image": "wildflowers/Medeolavirginiana"
     },
     {
-      "scientific_name": "Micranthes virginiensis, Saxifraga virginiensis",
+      "scientific_name": "Micranthes virginiensis",
       "common_names": [
         "Early Saxifrage",
         "Virginia saxifrage"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/MicranthesvirginiensisSaxifragavirginiensis"
+      "image": "wildflowers/Micranthesvirginiensis"
     },
     {
-      "scientific_name": "Minuartia groenlandica, (syn. Arenaria groenlandica)",
+      "scientific_name": "Minuartia groenlandica",
       "common_names": [
         "Greenland Stitchwort",
         "Mountain Stitchwort",
         "Mountain Sandwort"
       ],
       "photographer": "Marie Price",
-      "image": "wildflowers/MinuartiagroenlandicasynArenariagroenlandica"
+      "image": "wildflowers/Minuartiagroenlandica"
     },
     {
       "scientific_name": "Mitchella repens",
@@ -3853,15 +2833,6 @@
       "image": "wildflowers/Mitchellarepens"
     },
     {
-      "scientific_name": "Mitchella repens",
-      "common_names": [
-        "Partridge Berry",
-        "Squaw Vine"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "wildflowers/Mitchellarepens"
-    },
-    {
       "scientific_name": "Monotropa uniflora",
       "common_names": [
         "Indian Pipe",
@@ -3872,30 +2843,12 @@
       "image": "wildflowers/Monotropauniflora"
     },
     {
-      "scientific_name": "Monotropa uniflora",
-      "common_names": [
-        "Indian Pipe",
-        "Ghost Plant",
-        "Corpse Plant"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Monotropauniflora"
-    },
-    {
-      "scientific_name": "Muscari botryoides, (poss. Muscari  neglectum), (poss. Muscari racemosum)",
+      "scientific_name": "Muscari botryoides",
       "common_names": [
         "Grape Hyacinth"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/MuscaribotryoidespossMuscarineglectumpossMuscariracemosum"
-    },
-    {
-      "scientific_name": "Muscari botryoides, (poss. Muscari  neglectum), (poss. Muscari racemosum)",
-      "common_names": [
-        "Grape Hyacinth"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/MuscaribotryoidespossMuscarineglectumpossMuscariracemosum"
+      "image": "wildflowers/Muscaribotryoides"
     },
     {
       "scientific_name": "Myosotis laxa",
@@ -3906,33 +2859,13 @@
       "image": "wildflowers/Myosotislaxa"
     },
     {
-      "scientific_name": "Myosotis scorpioides, (syn. Myosotis palustris)",
+      "scientific_name": "Myosotis scorpioides",
       "common_names": [
-        " Water Forget-me-not",
+        "Water Forget-me-not",
         "True Forget-me-not"
       ],
       "photographer": "Pam Powers",
-      "image": "wildflowers/MyosotisscorpioidessynMyosotispalustris"
-    },
-    {
-      "scientific_name": "Nepeta cataria",
-      "common_names": [
-        "catnip",
-        "catmint",
-        "catswort"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Nepetacataria"
-    },
-    {
-      "scientific_name": "Nepeta cataria",
-      "common_names": [
-        "catnip",
-        "catmint",
-        "catswort"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Nepetacataria"
+      "image": "wildflowers/Myosotisscorpioides"
     },
     {
       "scientific_name": "Nepeta cataria",
@@ -3954,74 +2887,33 @@
       "image": "wildflowers/Nupharlutea"
     },
     {
-      "scientific_name": "Nuttallanthus canadensis, (syn. Linaria canadensis), (syn. Antirrhinum canadense)",
+      "scientific_name": "Nuttallanthus canadensis",
       "common_names": [
         "Blue Toadflax",
         "Canada Toadflax",
         "Old-field Toadflax"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/NuttallanthuscanadensissynLinariacanadensissynAntirrhinumcanadense"
-    },
-    {
-      "scientific_name": "Nuttallanthus canadensis, (syn. Linaria canadensis), (syn. Antirrhinum canadense)",
-      "common_names": [
-        "Blue Toadflax",
-        "Canada Toadflax",
-        "Old-field Toadflax"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/NuttallanthuscanadensissynLinariacanadensissynAntirrhinumcanadense"
+      "image": "wildflowers/Nuttallanthuscanadensis"
     },
     {
       "scientific_name": "Nymphaea Hollandia",
       "common_names": [
-        "",
-        " (introduced)Pink Water-lily",
+        "Pink Water-lily",
         "Pink Fragrant Water Lily"
       ],
       "photographer": "Denise Hurt",
       "image": "wildflowers/NymphaeaHollandia"
     },
     {
-      "scientific_name": "Nymphaea odorata, (poss. Nymphaea alba)",
+      "scientific_name": "Nymphaea odorata",
       "common_names": [
         "European White Waterlily",
         "White Lotus",
         "Fragrant Water Lily"
       ],
       "photographer": "Denise Hurt",
-      "image": "wildflowers/NymphaeaodoratapossNymphaeaalba"
-    },
-    {
-      "scientific_name": "Nymphaea odorata",
-      "common_names": [
-        "Fragrant Water Lily",
-        "Beaver Root"
-      ],
-      "photographer": "Denise Hurt",
       "image": "wildflowers/Nymphaeaodorata"
-    },
-    {
-      "scientific_name": "Nymphaea odorata",
-      "common_names": [
-        "Fragrant Water Lily",
-        "Beaver Root"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "wildflowers/Nymphaeaodorata"
-    },
-    {
-      "scientific_name": "Oenothera biennis",
-      "common_names": [
-        "Evening Primrose",
-        "Evening Star",
-        "How Weed",
-        "Kings Cure-all",
-        "Fever-plant"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Oenotherabiennis"
     },
     {
       "scientific_name": "Oenothera biennis",
@@ -4045,26 +2937,6 @@
       "image": "wildflowers/Ornithogalumumbellatum"
     },
     {
-      "scientific_name": "Ornithogalum umbellatum",
-      "common_names": [
-        "Star-of-Bethlehem",
-        "Grass Lily"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Ornithogalumumbellatum"
-    },
-    {
-      "scientific_name": "Oxalis montana",
-      "common_names": [
-        "Mountain Woodsorrel",
-        "Wood Shamrock",
-        "White Woodsorrel",
-        "Common Woodsorrel"
-      ],
-      "photographer": "Beth Zimmer",
-      "image": "wildflowers/Oxalismontana"
-    },
-    {
       "scientific_name": "Oxalis montana",
       "common_names": [
         "Mountain Woodsorrel",
@@ -4084,15 +2956,7 @@
       "image": "wildflowers/Panaxtrifolius"
     },
     {
-      "scientific_name": "Panax trifolius",
-      "common_names": [
-        "Dwarf Ginseng"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "wildflowers/Panaxtrifolius"
-    },
-    {
-      "scientific_name": "Persicaria maculosa, (prev. Polygonum persicaria)",
+      "scientific_name": "Persicaria maculosa",
       "common_names": [
         "Redshank",
         "Persicaria",
@@ -4100,39 +2964,7 @@
         "Spotted Ladys-thumb"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/PersicariamaculosaprevPolygonumpersicaria"
-    },
-    {
-      "scientific_name": "Persicaria maculosa, (prev. Polygonum persicaria)",
-      "common_names": [
-        "Redshank",
-        "Persicaria",
-        "Redleg",
-        "Spotted Ladys-thumb"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/PersicariamaculosaprevPolygonumpersicaria"
-    },
-    {
-      "scientific_name": "Persicaria maculosa, (prev. Polygonum persicaria)",
-      "common_names": [
-        "Redshank",
-        "Persicaria",
-        "Redleg",
-        "Spotted Ladys-thumb"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/PersicariamaculosaprevPolygonumpersicaria"
-    },
-    {
-      "scientific_name": "Phlox divaricata",
-      "common_names": [
-        "Wild Blue Phlox",
-        "Woodland Phlox",
-        "Wild Sweet William"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Phloxdivaricata"
+      "image": "wildflowers/Persicariamaculosa"
     },
     {
       "scientific_name": "Phlox divaricata",
@@ -4154,28 +2986,6 @@
       ],
       "photographer": "Andy Hughson",
       "image": "wildflowers/Pilosellaaurantiaca"
-    },
-    {
-      "scientific_name": "Pilosella aurantiaca",
-      "common_names": [
-        "Orange Hawkweed",
-        "Tawny Hawkweed",
-        "Devils Paintbrush",
-        "Grim-the-collier"
-      ],
-      "photographer": "Andy Hughson",
-      "image": "wildflowers/Pilosellaaurantiaca"
-    },
-    {
-      "scientific_name": "Plantago lanceolata",
-      "common_names": [
-        "Ribwort Plantain",
-        "English Plantain",
-        "Buckhorn Plantain",
-        "Narrowleaf Plantain"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Plantagolanceolata"
     },
     {
       "scientific_name": "Plantago lanceolata",
@@ -4198,29 +3008,20 @@
       "image": "wildflowers/Platantherablephariglottis"
     },
     {
-      "scientific_name": "Platanthera dilatata, Habenaria dilatata",
+      "scientific_name": "Platanthera dilatata",
       "common_names": [
         "Leafy White Orchid",
         "Scentbottle",
         "White Bog Orchid"
       ],
       "photographer": "Steve Dionne",
-      "image": "wildflowers/PlatantheradilatataHabenariadilatata"
+      "image": "wildflowers/Platantheradilatata"
     },
     {
       "scientific_name": "Platanthera psycodes",
       "common_names": [
         "Lesser Purple Fringed Orchid",
-        "Small Purple Fringed(White var.)"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "wildflowers/Platantherapsycodes"
-    },
-    {
-      "scientific_name": "Platanthera psycodes",
-      "common_names": [
-        "Lesser Purple Fringed Orchid",
-        "Small Purple Fringed(White var.)"
+        "Small Purple Fringed"
       ],
       "photographer": "Steve Dionne",
       "image": "wildflowers/Platantherapsycodes"
@@ -4260,21 +3061,9 @@
     {
       "scientific_name": "Polygonatum sp.",
       "common_names": [
-        "",
-        " (prob.) Polygonatum biflorumSolomons Seal",
-        "(prob.) Smooth Solomons Seal",
-        "(prob.) Great Solomons Seal"
-      ],
-      "photographer": "Steve Dionne",
-      "image": "wildflowers/Polygonatumsp"
-    },
-    {
-      "scientific_name": "Polygonatum sp.",
-      "common_names": [
-        "",
-        " (prob.) Polygonatum biflorumSolomons Seal",
-        "(prob.) Smooth Solomons Seal",
-        "(prob.) Great Solomons Seal"
+        "Polygonatum biflorumSolomons Seal",
+        "Smooth Solomons Seal",
+        "Great Solomons Seal"
       ],
       "photographer": "Steve Dionne",
       "image": "wildflowers/Polygonatumsp"
@@ -4285,14 +3074,6 @@
         "Pickerel Weed"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/Pontederiacordata"
-    },
-    {
-      "scientific_name": "Pontederia cordata",
-      "common_names": [
-        "Pickerel Weed"
-      ],
-      "photographer": "Denise Hurt",
       "image": "wildflowers/Pontederiacordata"
     },
     {
@@ -4308,27 +3089,10 @@
       "scientific_name": "Prunella vulgaris",
       "common_names": [
         "Heal-all",
-        " Self-heal"
+        "Self-heal"
       ],
       "photographer": "Denise Hurt",
       "image": "wildflowers/Prunellavulgaris"
-    },
-    {
-      "scientific_name": "Prunella vulgaris",
-      "common_names": [
-        "Heal-all",
-        " Self-heal"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "wildflowers/Prunellavulgaris"
-    },
-    {
-      "scientific_name": "Ranunculus acris",
-      "common_names": [
-        "Meadow Buttercup"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Ranunculusacris"
     },
     {
       "scientific_name": "Ranunculus acris",
@@ -4349,38 +3113,28 @@
       "image": "wildflowers/Rhexiavirginica"
     },
     {
-      "scientific_name": "Rhexia virginica",
-      "common_names": [
-        "Virginia Meadow Beauty",
-        "Handsome Harry",
-        "Deer Grass"
-      ],
-      "photographer": "Denise Hurt",
-      "image": "wildflowers/Rhexiavirginica"
-    },
-    {
-      "scientific_name": "Rhododendreon lapponicum, L lapponicum var. lapponicum, (syn. Azalea lapponica), (syn. Rhododendron parviflorum)",
+      "scientific_name": "Rhododendreon lapponicum",
       "common_names": [
         "Lapland Rosebay"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/RhododendreonlapponicumLlapponicumvarlapponicumsynAzalealapponicasynRhododendronparviflorum"
+      "image": "wildflowers/Rhododendreonlapponicum"
     },
     {
       "scientific_name": "Rhododendron canadense",
       "common_names": [
-        "Rhodora (white)"
+        "Rhodora"
       ],
       "photographer": "Steve Dionne",
       "image": "wildflowers/Rhododendroncanadense"
     },
     {
-      "scientific_name": "Rhododendron groenlandicum, (prev. Ledum groenlandicum), (prev. Ledum latifolium)",
+      "scientific_name": "Rhododendron groenlandicum",
       "common_names": [
         "Bog Labrador Tea"
       ],
       "photographer": "Beth Zimmer",
-      "image": "wildflowers/RhododendrongroenlandicumprevLedumgroenlandicumprevLedumlatifolium"
+      "image": "wildflowers/Rhododendrongroenlandicum"
     },
     {
       "scientific_name": "Rosa multiflora var multiflora",
@@ -4392,27 +3146,6 @@
       ],
       "photographer": "Tom Todd",
       "image": "wildflowers/Rosamultifloravarmultiflora"
-    },
-    {
-      "scientific_name": "Rosa multiflora var multiflora",
-      "common_names": [
-        "Multiflora Rose",
-        "Rambler Rose",
-        "Baby Rose",
-        "Japanese Rose"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Rosamultifloravarmultiflora"
-    },
-    {
-      "scientific_name": "Rosa rugosa",
-      "common_names": [
-        "Rugosa Rose",
-        "Japanese Rose",
-        "Ramanas Rose"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Rosarugosa"
     },
     {
       "scientific_name": "Rosa rugosa",
@@ -4443,32 +3176,475 @@
       "image": "wildflowers/Rubusodoratus"
     },
     {
-      "scientific_name": "Rubus odoratus",
-      "common_names": [
-        "Purple-flowered Raspberry",
-        "Flowering Raspberry",
-        "Virginia Raspberry"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Rubusodoratus"
-    },
-    {
-      "scientific_name": "Rubus odoratus",
-      "common_names": [
-        "Purple-flowered Raspberry",
-        "Flowering Raspberry",
-        "Virginia Raspberry"
-      ],
-      "photographer": "Tom Todd",
-      "image": "wildflowers/Rubusodoratus"
-    },
-    {
-      "scientific_name": "Sambucus racemosa, (syn. Sambucus pubens)",
+      "scientific_name": "Sambucus racemosa",
       "common_names": [
         "Red-Berried Elder"
       ],
       "photographer": "Tom Todd",
-      "image": "wildflowers/SambucusracemosasynSambucuspubens"
+      "image": "wildflowers/Sambucusracemosa"
+    },
+    {
+      "scientific_name": "Sambucus sp.",
+      "common_names": [
+        "Red-berried Elder"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Sambucussp"
+    },
+    {
+      "scientific_name": "Sarracenia purpurea",
+      "common_names": [
+        "Northern Pitcher Plant",
+        "Purple Pitcher Plant"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Sarraceniapurpurea"
+    },
+    {
+      "scientific_name": "Sedum acre",
+      "common_names": [
+        "Goldmoss Stonecrop",
+        "Goldmoss Sedum",
+        "Biting Stonecrop",
+        "Wallpepper"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Sedumacre"
+    },
+    {
+      "scientific_name": "Sibbaldiopsis tridentata",
+      "common_names": [
+        "Three-Toothed Cinquefoil",
+        "Shrubby Fivefingers"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Sibbaldiopsistridentata"
+    },
+    {
+      "scientific_name": "Silene latifolia",
+      "common_names": [
+        "Melandrium album",
+        "Lychnis albaWhite Campion",
+        "Bladder Campion",
+        "Grave Flower",
+        "Flower of the Dead"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Silenelatifolia"
+    },
+    {
+      "scientific_name": "Sisyrinchium angustifolium",
+      "common_names": [
+        "Pointed Blue-eyed Grass",
+        "Stout Blue-eyed Grass",
+        "Narrowleaf Blue-Eyed Grass"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Sisyrinchiumangustifolium"
+    },
+    {
+      "scientific_name": "Solanum carolinense",
+      "common_names": [
+        "Carolina Horsenettle",
+        "Horsenettle",
+        "Radical Weed",
+        "Sand Brier"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Solanumcarolinense"
+    },
+    {
+      "scientific_name": "Solanum dulcamara",
+      "common_names": [
+        "Bittersweet Nightshade",
+        "Woody Nightshade"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Solanumdulcamara"
+    },
+    {
+      "scientific_name": "Solidago leiocarpa DC",
+      "common_names": [
+        "Alpine Goldenrod"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/SolidagoleiocarpaDC"
+    },
+    {
+      "scientific_name": "Solidago sempervirens",
+      "common_names": [
+        "Seaside Goldenrod",
+        "Salt Marsh Goldenrod"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Solidagosempervirens"
+    },
+    {
+      "scientific_name": "Sonchus spp.",
+      "common_names": [
+        "Field Sow Thistle",
+        "Corn Sow Thistle",
+        "Dindle",
+        "Gutweed"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Sonchusspp"
+    },
+    {
+      "scientific_name": "Sparganium americanum",
+      "common_names": [
+        "American Bur-reed",
+        "Three-squared Bur-reed"
+      ],
+      "photographer": "Denis Hurt",
+      "image": "wildflowers/Sparganiumamericanum"
+    },
+    {
+      "scientific_name": "Spiraea latifolia",
+      "common_names": [
+        "Meadowsweet",
+        "Broadleaf Meadowsweet"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Spiraealatifolia"
+    },
+    {
+      "scientific_name": "Spiraea tomentosa",
+      "common_names": [
+        "Steeplebush",
+        "Hardhack"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Spiraeatomentosa"
+    },
+    {
+      "scientific_name": "Spiranthes ochrolueuca",
+      "common_names": [
+        "Yellow Nodding Ladies Tresses"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Spiranthesochrolueuca"
+    },
+    {
+      "scientific_name": "Stellaria sp.",
+      "common_names": [
+        "Common Chickweed"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Stellariasp"
+    },
+    {
+      "scientific_name": "Streptopus roseus",
+      "common_names": [
+        "Rose Twisted-Stalk"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Streptopusroseus"
+    },
+    {
+      "scientific_name": "Symphyotrichum lateriflorum",
+      "common_names": [
+        "Calico Aster"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Symphyotrichumlateriflorum"
+    },
+    {
+      "scientific_name": "Symphyotrichum novae-angliae",
+      "common_names": [
+        "New England Aster"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Symphyotrichumnovaeangliae"
+    },
+    {
+      "scientific_name": "Symphyotrichum puniceum",
+      "common_names": [
+        "Purple-stemmed Aster",
+        "Red-stemmed Aster",
+        "Swamp Aster"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Symphyotrichumpuniceum"
+    },
+    {
+      "scientific_name": "Symplocarpus foetidus",
+      "common_names": [
+        "Dracontium foetidumEastern Skunk Cabbage",
+        "Clumpfoot Cabbage",
+        "Foetid Pothos",
+        "Polecat Weed"
+      ],
+      "photographer": "Harland Alpaugh",
+      "image": "wildflowers/Symplocarpusfoetidus"
+    },
+    {
+      "scientific_name": "Taraxacum officinale",
+      "common_names": [
+        "Common Dandelion"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Taraxacumofficinale"
+    },
+    {
+      "scientific_name": "Thalictrum pubescens",
+      "common_names": [
+        "Tall Meadow Rue",
+        "King of the Meadow"
+      ],
+      "photographer": "Denise Hurt",
+      "image": "wildflowers/Thalictrumpubescens"
+    },
+    {
+      "scientific_name": "Tradescantia virginiana",
+      "common_names": [
+        "Virginia Spiderwort"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Tradescantiavirginiana"
+    },
+    {
+      "scientific_name": "Trientalis borealis",
+      "common_names": [
+        "Starflower"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Trientalisborealis"
+    },
+    {
+      "scientific_name": "Trifolium pratense pratense",
+      "common_names": [
+        "Red Clover"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Trifoliumpratensepratense"
+    },
+    {
+      "scientific_name": "Trifolium repens",
+      "common_names": [
+        "White Clover",
+        "Dutch Clover"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Trifoliumrepens"
+    },
+    {
+      "scientific_name": "Trillium erectum",
+      "common_names": [
+        "Red Trillium",
+        "Wake-robin",
+        "Purple Trillium",
+        "Beth Root",
+        "Stinking Benjamin"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Trilliumerectum"
+    },
+    {
+      "scientific_name": "Trillium grandiflorum",
+      "common_names": [
+        "White Trillium"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Trilliumgrandiflorum"
+    },
+    {
+      "scientific_name": "Trillium luteum",
+      "common_names": [
+        "Yellow Wakerobin",
+        "Yellow Trillium",
+        "Wood Lily",
+        "Trinity Flower"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Trilliumluteum"
+    },
+    {
+      "scientific_name": "Trillium undulatum",
+      "common_names": [
+        "Painted Trillium"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Trilliumundulatum"
+    },
+    {
+      "scientific_name": "Triodanis perfoliata",
+      "common_names": [
+        "Venus Looking Glass"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Triodanisperfoliata"
+    },
+    {
+      "scientific_name": "Tussilago farfara",
+      "common_names": [
+        "Coltsfoot"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Tussilagofarfara"
+    },
+    {
+      "scientific_name": "Typha latifolia",
+      "common_names": [
+        "Common Cattail"
+      ],
+      "photographer": "Pam Powers",
+      "image": "wildflowers/Typhalatifolia"
+    },
+    {
+      "scientific_name": "Utricularia inflata",
+      "common_names": [
+        "Swollen Bladderwort",
+        "Inflated Bladderwort",
+        "Large Floating  Bladderwort"
+      ],
+      "photographer": "Denise Hurt",
+      "image": "wildflowers/Utriculariainflata"
+    },
+    {
+      "scientific_name": "Uvularia sessilifolia",
+      "common_names": [
+        "Sessile Bellwort",
+        "Spreading Bellwort",
+        "Wild Oats",
+        "Straw Lily"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Uvulariasessilifolia"
+    },
+    {
+      "scientific_name": "Vaccinium Cyanococcus sp.",
+      "common_names": [
+        "Blueberry",
+        "Wild Blueberry"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/VacciniumCyanococcussp"
+    },
+    {
+      "scientific_name": "Vaccinium cespitosum",
+      "common_names": [
+        "Dwarf Bilberry"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Vacciniumcespitosum"
+    },
+    {
+      "scientific_name": "Vaccinium vitis-idaea",
+      "common_names": [
+        "Mountain Cranberry",
+        "Lingonberry",
+        "Cowberry",
+        "Mountain Cranberry"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Vacciniumvitisidaea"
+    },
+    {
+      "scientific_name": "Verbascum thapsus",
+      "common_names": [
+        "Common Mullein",
+        "Great Mullein"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Verbascumthapsus"
+    },
+    {
+      "scientific_name": "Viburnum lantanoides",
+      "common_names": [
+        "Hobblebush",
+        "Witch-hobble",
+        "Moosewood"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Viburnumlantanoides"
+    },
+    {
+      "scientific_name": "Vicia cracca",
+      "common_names": [
+        "Cow Vetch",
+        "Tufted Vetch",
+        "Bird Vetch",
+        "Boreal Vetch"
+      ],
+      "photographer": "Denise Hurt",
+      "image": "wildflowers/Viciacracca"
+    },
+    {
+      "scientific_name": "Vicia villosa",
+      "common_names": [
+        "Hairy Vetch",
+        "Fodder Vetch",
+        "Winter Vetch"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Viciavillosa"
+    },
+    {
+      "scientific_name": "Vinca minor",
+      "common_names": [
+        "Common Periwinkle",
+        "Lesser Periwinkle",
+        "Dwarf Periwinkle"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Vincaminor"
+    },
+    {
+      "scientific_name": "Viola cucullata",
+      "common_names": [
+        "Hooded Blue Violet",
+        "Marsh Blue Violet",
+        "Purple Violet"
+      ],
+      "photographer": "Harland Alpaugh",
+      "image": "wildflowers/Violacucullata"
+    },
+    {
+      "scientific_name": "Viola novae-angliae QQQ",
+      "common_names": [
+        "New England Violet QQQl"
+      ],
+      "photographer": "Pam Powers",
+      "image": "wildflowers/ViolanovaeangliaeQQQ"
+    },
+    {
+      "scientific_name": "Viola pubescens",
+      "common_names": [
+        "Downy yellow violet"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Violapubescens"
+    },
+    {
+      "scientific_name": "Viola rotundifolia",
+      "common_names": [
+        "Eastern Roundleaf Yellow Violet"
+      ],
+      "photographer": "Beth Zimmer",
+      "image": "wildflowers/Violarotundifolia"
+    },
+    {
+      "scientific_name": "Viola sororia",
+      "common_names": [
+        "Common Blue Violet",
+        "Common Meadow Violet",
+        "Purple Violet",
+        "Woolly Blue Violet",
+        "Hooded Violet",
+        "Wood Violet"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Violasororia"
+    },
+    {
+      "scientific_name": "Zizia aurea",
+      "common_names": [
+        "Golden Alexanders",
+        "Golden Zizia"
+      ],
+      "photographer": "Tom Todd",
+      "image": "wildflowers/Ziziaaurea"
     }
   ]
 }
