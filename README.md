@@ -18,4 +18,3 @@ http://amc-nh.org/resources/guides/
 
 - Center images
 - Add copywrite info
-- Incorporate all wild flowers (avoiding overflow limit (do two batches?))
