@@ -19,6 +19,8 @@ def download_image(image, image_path, backup_image=False):
             return False
 
 def clean_name(name):
+    name = name.replace('u26', '')
+    name = ''.join(i for i in name if not i.isdigit())
     open_paren = name.find('(')
     close_paren = name.find(')') + 1
     if open_paren != -1 and close_paren != -1:

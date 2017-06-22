@@ -16,5 +16,4 @@ http://amc-nh.org/resources/guides/
 
 ## To Do
 
-- Center images
 - Add copywrite info
