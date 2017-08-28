@@ -4,6 +4,8 @@ This is a two part project that in the end assembles a wildlife guide for New Ha
 
 ## Output
 
+![Screenshot of wildlife guide](./screenshot.png)
+
 The final output is too big to host on GitHub (300+MB of wildlife photographs) but is hosted on my Drive: https://drive.google.com/open?id=0B43OdhDUo9n7anRmcnI0aWtEY00
 
 ## To use
