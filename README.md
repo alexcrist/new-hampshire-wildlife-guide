@@ -1,4 +1,4 @@
-# nh-guide
+# new-hampshire-wildlife-guide
 
 A guide to New Hampshire wildlife written in LaTeX with data scraped from
 http://amc-nh.org/resources/guides/
