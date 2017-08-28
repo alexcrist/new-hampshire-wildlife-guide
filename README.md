@@ -1,13 +1,13 @@
 # new-hampshire-wildlife-guide
 
-This is a two part project that in the end assembles a wildlife guide for New Hampshire sourced from the data on http://amc-nh.org/resources/guides/.
+This is a two part project that in the end assembles a wildlife guide for New Hampshire sourced from the data [here](http://amc-nh.org/resources/guides/).
 
 ## Output
 
 Here's a screenshot of what the guide looks like.
 ![Screenshot of wildlife guide](./screenshot.png)
 
-The final output is too big to host on GitHub (300+MB of wildlife photographs) but is hosted on my (Drive)[https://drive.google.com/open?id=0B43OdhDUo9n7anRmcnI0aWtEY00].
+The final output is too big to host on GitHub (300+MB of wildlife photographs) but is hosted on my [Drive](https://drive.google.com/open?id=0B43OdhDUo9n7anRmcnI0aWtEY00).
 
 ## To use
 
